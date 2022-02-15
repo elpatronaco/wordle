@@ -1,0 +1,32 @@
+html {
+	--main-bg: #fff;
+	--text-primary: #000000;
+	--text-secondary: #ffffff;
+	--btn-bg: #d3d6da;
+	--btn-bg-hover: #c3c6ca;
+	--btn-notfound-bg: #787c7e;
+	--btn-notfound-bg-hover: #5e6466;
+	--btn-success-bg: #6aaa64;
+	--btn-success-bg-hover: #5e9958;
+	--btn-warn-bg: #c9b458;
+	--btn-warn-bg-hover: #b19d47;
+	--cell-bg: #fafafa;
+	--cell-success-bg: #6aaa64;
+	--cell-warn-bg: #c9b458;
+	--cell-notfound-bg: #787c7e;
+	--cell-outline: #b4b4b4;
+}
+
+html.dark {
+	--main-bg: #fff;
+	--text-primary: #000000;
+	--text-secondary: #ffffff;
+	--btn-bg: #d3d6da;
+	--btn-bg-hover: #c3c6ca;
+	--btn-notfound-bg: #787c7e;
+	--btn-notfound-bg-hover: #82888a;
+	--btn-success-bg: #6aaa64;
+	--btn-success-bg-hover: rgb(117, 172, 117);
+	--btn-warn-bg: #c9b458;
+	--btn-warn-bg-hover: rgb(170, 152, 71);
+}
